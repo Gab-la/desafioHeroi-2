@@ -18,9 +18,6 @@ function rankHeroi (resultado){
                         return "Lendário"
                           }else {
                             return "Imortal"}
-
-    
-
 }
 console.log("O Herói tem "+resultado,"de saldo de vitórias e está no rank nível:"+rankHeroi(resultado))
 
